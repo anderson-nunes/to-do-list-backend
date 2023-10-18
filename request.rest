@@ -14,3 +14,7 @@ Content-Type: application/json
     "password": "Jose@123"
   }
 ###
+
+DELETE http://localhost:3003/users/f003
+Content-Type: application/json
+###
